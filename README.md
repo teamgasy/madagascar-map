@@ -1,2 +1,2 @@
 # madagascar-map
-Map of Madagascar in SVG
+This is a map of Madagascar in SVG that you can use on your project.
