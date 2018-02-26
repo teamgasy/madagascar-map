@@ -1,0 +1,79 @@
+#diana,
+#sava {
+  fill: #1BBB9B;
+}
+
+#diana:hover,
+#sava:hover {
+  fill: #15A086;
+}
+
+#sofia,
+#boeny,
+#melaky,
+#betsiboka {
+  fill: #2CCC70;
+}
+
+#sofia:hover,
+#boeny:hover,
+#melaky:hover,
+#betsiboka:hover {
+  fill: #27AE61;
+}
+
+#analanjirofo,
+#alaotra-mangoro,
+#atsinanana {
+  fill: #3598DB;
+}
+
+#analanjirofo:hover,
+#alaotra-mangoro:hover,
+#atsinanana:hover {
+  fill: #2A7FB8;
+}
+
+#bongolava,
+#analamanga,
+#itasy,
+#vakinankaratra {
+  fill: #9A59B5;
+}
+
+#bongolava:hover,
+#analamanga:hover,
+#itasy:hover,
+#vakinankaratra:hover {
+  fill: #8D43AD;
+}
+
+#amoron-i-mania,
+#haute-matsiatra,
+#vatovavy-fitovinany,
+#ihorombe,
+#atsimo-atsinanana {
+  fill: #E67F22;
+}
+
+#amoron-i-mania:hover,
+#haute-matsiatra:hover,
+#vatovavy-fitovinany:hover,
+#ihorombe:hover,
+#atsimo-atsinanana:hover {
+  fill: #D25202;
+}
+
+#menabe,
+#atsimo-andrefana,
+#androy,
+#anosy {
+  fill: #E84C3D;
+}
+
+#menabe:hover,
+#atsimo-andrefana:hover,
+#androy:hover,
+#anosy:hover {
+  fill: #C1392B;
+}
